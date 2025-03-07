@@ -4,5 +4,5 @@ void setup() {
 }
 
 void draw() {
-  image(brick,100,100)
+  image(brick,width/2,height/2)
 }

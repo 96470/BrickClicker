@@ -1,6 +1,6 @@
 void setup() {
   PImage brick;
-  brick = loadImage("Brick.svg");
+  brick = loadImage("images/Brick.svg");
 }
 
 void draw() {
